@@ -1,0 +1,14 @@
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\ToadicusTools.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\Assembly-CSharp.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\KSPAssets.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\UnityEngine.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\UnityEngine.UI.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\KSPTrackIR.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\System.Xml.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\Mono.Cecil.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\TDx.TDxInput.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\Mono.Security.dll
+D:\Users\jbb\github\Toadicus\ToadicusTools\bin\Release\UnityEngine.xml
+D:\Users\jbb\github\Toadicus\ToadicusTools\obj\Release_win\ToadicusTools.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\Toadicus\ToadicusTools\obj\Release_win\ToadicusTools.dll

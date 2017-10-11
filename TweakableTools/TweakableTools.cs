@@ -44,7 +44,7 @@ namespace TweakableEverything
 			bool clobberEverywhere = false
 		)
 		{
-			if (floatTweakable == null)
+            if (floatTweakable == null)
 			{
 				Logging.PostErrorMessage("Got null Control during InitializeTweakable for type {0}; bailing out.",
 					typeof(T).FullName);
@@ -65,7 +65,6 @@ namespace TweakableEverything
 				// ...fetch it from the remote field
 				localField = centerValue;
 			}
-
 			lowerMult = Mathf.Max(lowerMult, bounds.x, 0);
 			upperMult = Mathf.Max(lowerMult, Mathf.Min(upperMult, bounds.y));
 
@@ -84,7 +83,7 @@ namespace TweakableEverything
 			stepIncrement = Mathf.Pow(10f, Mathf.RoundToInt(Mathf.Log10(Mathf.Abs(centerValue))) - 1);
 			stepIncrement *= stepMult;
 
-			if (floatTweakable is UI_FloatRange)
+            if (floatTweakable is UI_FloatRange)
 			{
 				UI_FloatRange floatRange = floatTweakable as UI_FloatRange;
 
@@ -94,7 +93,7 @@ namespace TweakableEverything
 			}
 			else
 			{
-				Logging.PostErrorMessage(
+                Logging.PostErrorMessage(
 					"InitializeTweakable<{0}>: Got floatTweakable of type {1}, expected {2}",
 					typeof(T).FullName,
 					floatTweakable.GetType().FullName,
@@ -104,7 +103,7 @@ namespace TweakableEverything
 				return;
 			}
 
-			localField = Mathf.Clamp(localField, minValue, maxValue);
+            localField = Mathf.Clamp(localField, minValue, maxValue);
 
 			if (HighLogic.LoadedSceneIsFlight || clobberEverywhere)
 			{

@@ -193,8 +193,8 @@ namespace ToadicusTools.DebugTools
 				);
 			}
 		}
-
-		public void onPartJointBreak(PartJoint joint)
+        
+        public void onPartJointBreak(PartJoint joint, float f)
 		{
 			using (PooledStringBuilder sb = this.getStringBuilder())
 			{
