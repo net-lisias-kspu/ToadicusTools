@@ -29,7 +29,7 @@ using System.Collections.Generic;
 using ToadicusTools;
 using UnityEngine;
 
-namespace TweakableEverything
+namespace ToadicusTools.TweakableTools
 {
 	public static class TweakableTools
 	{
