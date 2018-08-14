@@ -1,5 +1,7 @@
 # Toadicus Tools :: Change Log
 
+* 2016-0912: 21 (toadicus) for KSP 1.1.3
+	+ No changelog provided
 * 2016-0430: 20 (toadicus) for KSP 1.1.2
 	+ No changelog provided
 * 2016-0423: 19 (toadicus) for KSP 1.1
