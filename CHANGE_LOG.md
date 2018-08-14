@@ -1,5 +1,7 @@
 # Toadicus Tools :: Change Log
 
+* 2018-0427: 0.22.3 (linuxgurugamer) for KSP 1.4.2
+	+ Updated for 1.4+
 * 2017-1011: 0.22.2 (linuxgurugamer) for KSP 1.3.1
 	+ Updated for KSP 1.3.1
 * 2017-0529: 0.22.1 (linuxgurugamer) for KSP 1.3.0
