@@ -13,10 +13,13 @@ A library of tools for KSP mods. Unofficial fork by Lisias.
 
 ## Description
 
-### License:
+## License:
 
 Simplified BSD License. [See here](./LICENSE).
 
+## Dependencies
+
+* [KSP API Extensions/L](https://github.com/net-lisias-ksp/KSPAPIExtensions)
 
 ## UPSTREAM
 
