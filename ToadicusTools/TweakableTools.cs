@@ -28,6 +28,7 @@ using System;
 using System.Collections.Generic;
 using ToadicusTools;
 using UnityEngine;
+using KSPe.IO;
 
 namespace ToadicusTools.TweakableTools
 {
@@ -170,7 +171,7 @@ namespace ToadicusTools.TweakableTools
 
 			try
 			{
-				KSP.IO.PluginConfiguration config = KSP.IO.PluginConfiguration.CreateForType<T>();
+				PluginConfiguration config = PluginConfiguration.CreateForType<T>();
 
 				config.load();
 
@@ -200,7 +201,7 @@ namespace ToadicusTools.TweakableTools
 
 			try
 			{
-				KSP.IO.PluginConfiguration config = KSP.IO.PluginConfiguration.CreateForType<T>();
+				PluginConfiguration config = PluginConfiguration.CreateForType<T>();
 
 				config.load();
 

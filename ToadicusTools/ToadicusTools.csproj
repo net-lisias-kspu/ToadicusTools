@@ -39,8 +39,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <CustomCommands>
-    </CustomCommands>
     <DefineConstants>HAS_SIFORMMATER</DefineConstants>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug_linux|AnyCPU' ">
@@ -58,8 +56,6 @@
     <OutputPath>..\bin\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CustomCommands>
-    </CustomCommands>
     <ConsolePause>false</ConsolePause>
     <DefineConstants>HAS_SIFORMMATER</DefineConstants>
   </PropertyGroup>
@@ -101,7 +97,6 @@
     <Compile Include="Debug\PooledDebugLogger.cs" />
     <Compile Include="Text\Extensions.cs" />
     <Compile Include="Enums.cs" />
-    <Compile Include="PluginConfiguration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Version.cs">
       <DependentUpon>Version.tt</DependentUpon>
@@ -132,6 +127,9 @@
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\LIB\managed\1.4.1\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="KSPe">
+      <HintPath>..\..\..\..\LIB\plugins\KSPe.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup />
