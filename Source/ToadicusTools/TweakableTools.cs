@@ -28,7 +28,7 @@ using System;
 using System.Collections.Generic;
 using ToadicusTools;
 using UnityEngine;
-using KSPe.IO;
+using KSPe.IO.Data;
 
 namespace ToadicusTools.TweakableTools
 {
