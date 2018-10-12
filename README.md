@@ -5,11 +5,11 @@ A library of tools for KSP mods. Unofficial fork by Lisias.
 
 ## In a Hurry
 
-* [Releases](https://github.com/net-lisias-kspu/ToadicusTools/tree/Archive)
-* [Source](https://github.com/net-lisias-kspu/ToadicusTools)
 * [Latest Release](https://github.com/net-lisias-kspu/ToadicusTools/releases)
+	+ [Binaries](https://github.com/net-lisias-kspu/ToadicusTools/tree/Archive)
+* [Source](https://github.com/net-lisias-kspu/ToadicusTools)
 * [Change Log](./CHANGE_LOG.md)
- 
+
 
 ## Description
 
