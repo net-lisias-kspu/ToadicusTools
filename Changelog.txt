@@ -1,3 +1,6 @@
+0.22.3.2
+	Version bump for 1.5 rebuild
+
 0.22.3.1
 	changed namespace of TweakableTools
 
